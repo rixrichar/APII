@@ -5,7 +5,18 @@
     "secretBase" : "Super tower",
     "active" : true,
     "members" : [
-     {
+        {
+            "name" : "Namor",
+            "age" : 16,
+            "secretIdentity" : "Tenoch Huerta ",
+            "powers" : [
+              "Rey del mar",
+              "Super fuerza",
+              "Conrola los animales acuaticos"
+            ]
+       },
+        
+        {
             "name" : "Electro",
             "age" : 16,
             "secretIdentity" : "Mais Morales ",
