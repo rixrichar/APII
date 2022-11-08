@@ -7,12 +7,12 @@
     "members" : [
         {
             "name" : "Namor",
-            "age" : 16,
+            "age" : 30,
             "secretIdentity" : "Tenoch Huerta ",
             "powers" : [
               "Rey del mar",
               "Super fuerza",
-              "Conrola los animales acuaticos"
+              "Controla los animales acuaticos"
             ]
        },
         
